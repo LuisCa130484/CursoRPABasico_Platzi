@@ -3,8 +3,11 @@
   "description": "Este proyecto contiene todas las clases vistas en el curso RPA",
   "main": "Main.xaml",
   "dependencies": {
+    "python": "[3.8.5]",
     "UiPath.Excel.Activities": "[2.9.0-preview]",
     "UiPath.Mail.Activities": "[1.9.0-preview]",
+    "UiPath.PDF.Activities": "[3.2.2]",
+    "UiPath.Python.Activities": "[1.1.6863.33404]",
     "UiPath.System.Activities": "[20.6.1-preview]",
     "UiPath.UIAutomation.Activities": "[20.6.0-preview]"
   },
